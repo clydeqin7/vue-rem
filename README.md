@@ -1,5 +1,7 @@
 # vue-rem
 
+文章：[vue-cli3创建项目实现px2rem](https://github.com/clydeqin7/blog/issues/1)
+
 ## Project setup
 ```
 npm install
